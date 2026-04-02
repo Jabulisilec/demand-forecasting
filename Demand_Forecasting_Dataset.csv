@@ -1,0 +1,366 @@
+Date,Product_ID,Product_Name,Warehouse,Units_Sold,Unit_Price,Promotion,Holiday,Demand_Trend
+2024-01-01,P002,Hard Hats,Johannesburg,85,319.51,Yes,Yes,Medium
+2024-01-02,P003,Steel Boots,Johannesburg,34,1000.62,No,No,Low
+2024-01-03,P002,Hard Hats,Durban,88,238.84,Yes,Yes,Medium
+2024-01-04,P005,Reflective Vests,Johannesburg,33,1065.75,No,No,Low
+2024-01-05,P003,Steel Boots,Cape Town,76,1004.83,No,No,Medium
+2024-01-06,P003,Steel Boots,Johannesburg,80,576.88,Yes,No,Medium
+2024-01-07,P001,Safety Gloves,Durban,26,903.66,No,No,Low
+2024-01-08,P001,Safety Gloves,Cape Town,79,849.43,Yes,Yes,Medium
+2024-01-09,P002,Hard Hats,Durban,43,592.54,No,Yes,Low
+2024-01-10,P003,Steel Boots,Durban,87,632.1,No,Yes,Medium
+2024-01-11,P001,Safety Gloves,Durban,68,655.26,Yes,Yes,Medium
+2024-01-12,P001,Safety Gloves,Cape Town,72,637.81,No,No,Medium
+2024-01-13,P004,Safety Glasses,Johannesburg,40,1171.1,No,Yes,Low
+2024-01-14,P003,Steel Boots,Durban,57,981.16,No,No,Medium
+2024-01-15,P005,Reflective Vests,Cape Town,46,733.77,No,No,Low
+2024-01-16,P004,Safety Glasses,Cape Town,115,230.7,Yes,Yes,High
+2024-01-17,P004,Safety Glasses,Cape Town,107,467.13,Yes,Yes,High
+2024-01-18,P005,Reflective Vests,Johannesburg,38,1033.3,No,Yes,Low
+2024-01-19,P002,Hard Hats,Durban,93,409.75,Yes,No,High
+2024-01-20,P002,Hard Hats,Durban,65,513.24,No,No,Medium
+2024-01-21,P003,Steel Boots,Durban,86,677.25,Yes,Yes,Medium
+2024-01-22,P004,Safety Glasses,Johannesburg,60,161.32,No,No,Medium
+2024-01-23,P004,Safety Glasses,Johannesburg,111,833.07,Yes,Yes,High
+2024-01-24,P003,Steel Boots,Durban,123,122.39,Yes,Yes,High
+2024-01-25,P005,Reflective Vests,Johannesburg,102,191.11,Yes,No,High
+2024-01-26,P004,Safety Glasses,Durban,77,336.45,Yes,No,Medium
+2024-01-27,P004,Safety Glasses,Durban,81,930.39,Yes,Yes,Medium
+2024-01-28,P001,Safety Gloves,Johannesburg,90,154.9,Yes,Yes,Medium
+2024-01-29,P003,Steel Boots,Durban,113,938.06,Yes,Yes,High
+2024-01-30,P001,Safety Gloves,Durban,29,104.37,No,No,Low
+2024-01-31,P003,Steel Boots,Johannesburg,41,639.72,No,Yes,Low
+2024-02-01,P002,Hard Hats,Durban,50,1056.3,Yes,No,Low
+2024-02-02,P004,Safety Glasses,Johannesburg,88,420.75,Yes,No,Medium
+2024-02-03,P004,Safety Glasses,Cape Town,119,1059.7,Yes,Yes,High
+2024-02-04,P001,Safety Gloves,Cape Town,69,994.17,No,Yes,Medium
+2024-02-05,P002,Hard Hats,Johannesburg,71,314.2,Yes,Yes,Medium
+2024-02-06,P004,Safety Glasses,Johannesburg,46,271.01,No,Yes,Low
+2024-02-07,P001,Safety Gloves,Johannesburg,83,482.25,Yes,Yes,Medium
+2024-02-08,P003,Steel Boots,Cape Town,80,106.72,No,No,Medium
+2024-02-09,P001,Safety Gloves,Durban,80,176.49,Yes,No,Medium
+2024-02-10,P005,Reflective Vests,Durban,96,843.44,Yes,No,High
+2024-02-11,P005,Reflective Vests,Cape Town,73,850.36,No,No,Medium
+2024-02-12,P002,Hard Hats,Durban,56,630.38,Yes,Yes,Medium
+2024-02-13,P005,Reflective Vests,Durban,65,867.72,No,No,Medium
+2024-02-14,P002,Hard Hats,Durban,117,614.56,Yes,Yes,High
+2024-02-15,P005,Reflective Vests,Johannesburg,103,1064.52,Yes,No,High
+2024-02-16,P004,Safety Glasses,Cape Town,35,809.96,No,Yes,Low
+2024-02-17,P004,Safety Glasses,Durban,47,495.48,No,No,Low
+2024-02-18,P004,Safety Glasses,Johannesburg,57,415.05,No,No,Medium
+2024-02-19,P005,Reflective Vests,Cape Town,100,499.72,Yes,Yes,High
+2024-02-20,P004,Safety Glasses,Cape Town,73,118.58,No,No,Medium
+2024-02-21,P003,Steel Boots,Durban,61,202.95,No,No,Medium
+2024-02-22,P001,Safety Gloves,Durban,71,506.04,Yes,Yes,Medium
+2024-02-23,P004,Safety Glasses,Durban,40,982.85,No,Yes,Low
+2024-02-24,P002,Hard Hats,Durban,35,359.92,No,Yes,Low
+2024-02-25,P001,Safety Gloves,Cape Town,66,770.08,No,Yes,Medium
+2024-02-26,P001,Safety Gloves,Durban,52,314.57,Yes,No,Medium
+2024-02-27,P005,Reflective Vests,Cape Town,53,796.49,No,No,Medium
+2024-02-28,P005,Reflective Vests,Johannesburg,81,240.11,Yes,No,Medium
+2024-02-29,P002,Hard Hats,Cape Town,111,1111.29,Yes,Yes,High
+2024-03-01,P004,Safety Glasses,Cape Town,121,348.94,Yes,Yes,High
+2024-03-02,P004,Safety Glasses,Durban,83,732.84,Yes,No,Medium
+2024-03-03,P002,Hard Hats,Johannesburg,29,1077.71,No,No,Low
+2024-03-04,P002,Hard Hats,Durban,48,446.38,No,Yes,Low
+2024-03-05,P005,Reflective Vests,Johannesburg,72,244.54,Yes,Yes,Medium
+2024-03-06,P005,Reflective Vests,Johannesburg,64,808.9,Yes,No,Medium
+2024-03-07,P002,Hard Hats,Durban,49,513.7,No,No,Low
+2024-03-08,P003,Steel Boots,Durban,33,1146.21,No,No,Low
+2024-03-09,P005,Reflective Vests,Cape Town,63,727.86,Yes,No,Medium
+2024-03-10,P003,Steel Boots,Cape Town,78,295.45,No,Yes,Medium
+2024-03-11,P004,Safety Glasses,Durban,113,509.39,Yes,Yes,High
+2024-03-12,P005,Reflective Vests,Durban,88,538.25,Yes,Yes,Medium
+2024-03-13,P002,Hard Hats,Durban,99,1084.73,Yes,No,High
+2024-03-14,P001,Safety Gloves,Johannesburg,89,664.89,Yes,Yes,Medium
+2024-03-15,P004,Safety Glasses,Johannesburg,37,544.2,No,Yes,Low
+2024-03-16,P005,Reflective Vests,Cape Town,35,218.37,Yes,No,Low
+2024-03-17,P005,Reflective Vests,Durban,47,796.98,No,Yes,Low
+2024-03-18,P002,Hard Hats,Cape Town,52,194.28,Yes,Yes,Medium
+2024-03-19,P002,Hard Hats,Cape Town,89,338.78,Yes,Yes,Medium
+2024-03-20,P005,Reflective Vests,Durban,90,411.5,No,Yes,Medium
+2024-03-21,P003,Steel Boots,Durban,63,549.84,Yes,No,Medium
+2024-03-22,P001,Safety Gloves,Cape Town,88,308.83,Yes,Yes,Medium
+2024-03-23,P001,Safety Gloves,Durban,102,954,Yes,Yes,High
+2024-03-24,P005,Reflective Vests,Durban,59,228.63,Yes,No,Medium
+2024-03-25,P005,Reflective Vests,Johannesburg,69,268.55,Yes,Yes,Medium
+2024-03-26,P003,Steel Boots,Johannesburg,74,241.65,No,Yes,Medium
+2024-03-27,P003,Steel Boots,Cape Town,92,266.43,Yes,No,High
+2024-03-28,P005,Reflective Vests,Cape Town,50,771.79,No,No,Low
+2024-03-29,P004,Safety Glasses,Johannesburg,27,1157.9,No,Yes,Low
+2024-03-30,P003,Steel Boots,Cape Town,116,629.89,Yes,Yes,High
+2024-03-31,P004,Safety Glasses,Cape Town,36,261.26,No,Yes,Low
+2024-04-01,P003,Steel Boots,Durban,76,1024.84,No,Yes,Medium
+2024-04-02,P005,Reflective Vests,Cape Town,125,143.79,Yes,Yes,High
+2024-04-03,P005,Reflective Vests,Johannesburg,76,436.92,Yes,No,Medium
+2024-04-04,P003,Steel Boots,Durban,57,475.27,Yes,Yes,Medium
+2024-04-05,P003,Steel Boots,Johannesburg,96,792.75,Yes,No,High
+2024-04-06,P005,Reflective Vests,Cape Town,68,952.12,No,No,Medium
+2024-04-07,P003,Steel Boots,Cape Town,21,353.16,No,No,Low
+2024-04-08,P004,Safety Glasses,Cape Town,76,165.95,Yes,No,Medium
+2024-04-09,P002,Hard Hats,Durban,53,235.57,Yes,No,Medium
+2024-04-10,P002,Hard Hats,Johannesburg,117,322.51,Yes,Yes,High
+2024-04-11,P002,Hard Hats,Durban,101,253.21,Yes,No,High
+2024-04-12,P001,Safety Gloves,Johannesburg,110,832.53,Yes,Yes,High
+2024-04-13,P005,Reflective Vests,Johannesburg,100,1086.18,No,Yes,High
+2024-04-14,P004,Safety Glasses,Durban,81,283.3,No,Yes,Medium
+2024-04-15,P004,Safety Glasses,Johannesburg,39,914.29,No,Yes,Low
+2024-04-16,P005,Reflective Vests,Cape Town,89,899.75,Yes,Yes,Medium
+2024-04-17,P002,Hard Hats,Johannesburg,78,269.07,No,Yes,Medium
+2024-04-18,P001,Safety Gloves,Cape Town,87,1080.65,No,Yes,Medium
+2024-04-19,P001,Safety Gloves,Johannesburg,103,192.2,Yes,Yes,High
+2024-04-20,P004,Safety Glasses,Cape Town,54,717.7,Yes,Yes,Medium
+2024-04-21,P001,Safety Gloves,Johannesburg,96,300.44,Yes,No,High
+2024-04-22,P002,Hard Hats,Durban,24,380.31,No,No,Low
+2024-04-23,P003,Steel Boots,Johannesburg,90,968.36,Yes,Yes,Medium
+2024-04-24,P002,Hard Hats,Cape Town,87,798.71,Yes,No,Medium
+2024-04-25,P001,Safety Gloves,Cape Town,72,1012.11,No,No,Medium
+2024-04-26,P004,Safety Glasses,Cape Town,82,162.91,No,Yes,Medium
+2024-04-27,P003,Steel Boots,Cape Town,98,809.34,Yes,Yes,High
+2024-04-28,P005,Reflective Vests,Durban,51,226.03,No,Yes,Medium
+2024-04-29,P003,Steel Boots,Durban,34,795.36,No,Yes,Low
+2024-04-30,P003,Steel Boots,Johannesburg,80,387.72,Yes,No,Medium
+2024-05-01,P004,Safety Glasses,Durban,95,545.21,No,Yes,High
+2024-05-02,P004,Safety Glasses,Cape Town,37,1134.28,Yes,No,Low
+2024-05-03,P002,Hard Hats,Cape Town,44,1129.13,No,Yes,Low
+2024-05-04,P005,Reflective Vests,Johannesburg,84,363.57,Yes,No,Medium
+2024-05-05,P003,Steel Boots,Cape Town,32,1120.38,No,No,Low
+2024-05-06,P005,Reflective Vests,Cape Town,52,380.67,No,Yes,Medium
+2024-05-07,P002,Hard Hats,Johannesburg,134,908.46,Yes,Yes,High
+2024-05-08,P002,Hard Hats,Cape Town,119,389.74,Yes,Yes,High
+2024-05-09,P001,Safety Gloves,Cape Town,38,1019.72,No,Yes,Low
+2024-05-10,P003,Steel Boots,Durban,94,774.53,Yes,Yes,High
+2024-05-11,P001,Safety Gloves,Durban,109,176.23,Yes,Yes,High
+2024-05-12,P005,Reflective Vests,Durban,65,1009.03,No,No,Medium
+2024-05-13,P003,Steel Boots,Cape Town,71,127.07,Yes,No,Medium
+2024-05-14,P001,Safety Gloves,Cape Town,45,1164.99,Yes,No,Low
+2024-05-15,P005,Reflective Vests,Cape Town,50,442.79,Yes,No,Low
+2024-05-16,P003,Steel Boots,Johannesburg,36,168.05,Yes,No,Low
+2024-05-17,P003,Steel Boots,Cape Town,65,327.2,No,Yes,Medium
+2024-05-18,P001,Safety Gloves,Cape Town,48,248.19,No,No,Low
+2024-05-19,P002,Hard Hats,Johannesburg,129,949.82,Yes,Yes,High
+2024-05-20,P003,Steel Boots,Durban,45,810.57,No,Yes,Low
+2024-05-21,P004,Safety Glasses,Durban,114,364.56,Yes,No,High
+2024-05-22,P001,Safety Gloves,Cape Town,49,920.87,No,No,Low
+2024-05-23,P002,Hard Hats,Johannesburg,77,1139.33,Yes,No,Medium
+2024-05-24,P003,Steel Boots,Cape Town,68,834.92,No,Yes,Medium
+2024-05-25,P005,Reflective Vests,Johannesburg,57,767.23,No,No,Medium
+2024-05-26,P004,Safety Glasses,Durban,58,1144.25,No,No,Medium
+2024-05-27,P002,Hard Hats,Cape Town,24,613.81,No,No,Low
+2024-05-28,P005,Reflective Vests,Durban,97,909.38,No,Yes,High
+2024-05-29,P005,Reflective Vests,Johannesburg,79,825.32,No,No,Medium
+2024-05-30,P002,Hard Hats,Johannesburg,74,387.64,Yes,Yes,Medium
+2024-05-31,P002,Hard Hats,Johannesburg,106,637.87,Yes,No,High
+2024-06-01,P001,Safety Gloves,Johannesburg,103,487.76,No,Yes,High
+2024-06-02,P004,Safety Glasses,Cape Town,65,772.39,No,Yes,Medium
+2024-06-03,P002,Hard Hats,Durban,79,644.97,Yes,No,Medium
+2024-06-04,P002,Hard Hats,Johannesburg,98,929.93,Yes,No,High
+2024-06-05,P002,Hard Hats,Johannesburg,78,229.71,Yes,Yes,Medium
+2024-06-06,P005,Reflective Vests,Cape Town,32,1154.25,No,Yes,Low
+2024-06-07,P002,Hard Hats,Durban,65,650.94,No,No,Medium
+2024-06-08,P001,Safety Gloves,Johannesburg,33,298.26,No,No,Low
+2024-06-09,P002,Hard Hats,Cape Town,65,564.8,No,No,Medium
+2024-06-10,P002,Hard Hats,Durban,120,164.96,Yes,Yes,High
+2024-06-11,P005,Reflective Vests,Durban,65,126.78,No,Yes,Medium
+2024-06-12,P003,Steel Boots,Durban,72,323.44,Yes,No,Medium
+2024-06-13,P001,Safety Gloves,Johannesburg,86,855.93,Yes,No,Medium
+2024-06-14,P001,Safety Gloves,Johannesburg,93,367.24,Yes,No,High
+2024-06-15,P004,Safety Glasses,Johannesburg,50,117.34,No,Yes,Low
+2024-06-16,P002,Hard Hats,Johannesburg,59,312.68,No,Yes,Medium
+2024-06-17,P003,Steel Boots,Durban,71,630.2,Yes,No,Medium
+2024-06-18,P002,Hard Hats,Johannesburg,45,712.39,No,Yes,Low
+2024-06-19,P003,Steel Boots,Johannesburg,73,451.22,Yes,No,Medium
+2024-06-20,P003,Steel Boots,Johannesburg,83,392.83,Yes,Yes,Medium
+2024-06-21,P005,Reflective Vests,Cape Town,91,684.46,Yes,Yes,High
+2024-06-22,P005,Reflective Vests,Durban,78,1044.84,No,No,Medium
+2024-06-23,P003,Steel Boots,Cape Town,32,104.15,No,No,Low
+2024-06-24,P002,Hard Hats,Cape Town,43,944.32,No,No,Low
+2024-06-25,P002,Hard Hats,Cape Town,56,227.48,No,No,Medium
+2024-06-26,P002,Hard Hats,Cape Town,77,1123.72,No,Yes,Medium
+2024-06-27,P003,Steel Boots,Johannesburg,64,517.95,No,Yes,Medium
+2024-06-28,P005,Reflective Vests,Cape Town,70,639.15,Yes,No,Medium
+2024-06-29,P003,Steel Boots,Cape Town,112,167.2,Yes,No,High
+2024-06-30,P003,Steel Boots,Cape Town,110,928.3,Yes,No,High
+2024-07-01,P001,Safety Gloves,Johannesburg,104,793.24,Yes,Yes,High
+2024-07-02,P001,Safety Gloves,Johannesburg,51,771.86,No,No,Medium
+2024-07-03,P002,Hard Hats,Johannesburg,80,1159.66,Yes,No,Medium
+2024-07-04,P005,Reflective Vests,Durban,95,568.75,Yes,Yes,High
+2024-07-05,P001,Safety Gloves,Durban,67,1141.61,No,No,Medium
+2024-07-06,P001,Safety Gloves,Durban,65,1067.64,No,No,Medium
+2024-07-07,P002,Hard Hats,Cape Town,58,145,No,No,Medium
+2024-07-08,P001,Safety Gloves,Johannesburg,129,361.33,Yes,Yes,High
+2024-07-09,P002,Hard Hats,Johannesburg,84,713.61,Yes,Yes,Medium
+2024-07-10,P001,Safety Gloves,Johannesburg,87,375.82,Yes,No,Medium
+2024-07-11,P001,Safety Gloves,Cape Town,32,750.31,No,No,Low
+2024-07-12,P001,Safety Gloves,Cape Town,23,767.45,No,No,Low
+2024-07-13,P002,Hard Hats,Johannesburg,29,412.97,No,No,Low
+2024-07-14,P001,Safety Gloves,Johannesburg,49,350.89,No,No,Low
+2024-07-15,P005,Reflective Vests,Cape Town,80,899.04,Yes,Yes,Medium
+2024-07-16,P001,Safety Gloves,Johannesburg,96,134,Yes,Yes,High
+2024-07-17,P003,Steel Boots,Cape Town,92,299.44,No,Yes,High
+2024-07-18,P005,Reflective Vests,Cape Town,74,489.47,Yes,No,Medium
+2024-07-19,P001,Safety Gloves,Johannesburg,85,1122.67,No,Yes,Medium
+2024-07-20,P003,Steel Boots,Durban,65,685.87,Yes,Yes,Medium
+2024-07-21,P002,Hard Hats,Johannesburg,51,501.91,No,Yes,Medium
+2024-07-22,P005,Reflective Vests,Cape Town,63,177.55,No,Yes,Medium
+2024-07-23,P001,Safety Gloves,Durban,53,414.88,No,Yes,Medium
+2024-07-24,P005,Reflective Vests,Johannesburg,46,463.48,No,No,Low
+2024-07-25,P001,Safety Gloves,Johannesburg,84,1040.91,Yes,Yes,Medium
+2024-07-26,P003,Steel Boots,Durban,58,1032.83,Yes,Yes,Medium
+2024-07-27,P001,Safety Gloves,Johannesburg,108,1014.78,Yes,Yes,High
+2024-07-28,P003,Steel Boots,Johannesburg,61,1026.61,No,No,Medium
+2024-07-29,P004,Safety Glasses,Cape Town,57,626.11,No,No,Medium
+2024-07-30,P004,Safety Glasses,Johannesburg,85,1058.53,Yes,No,Medium
+2024-07-31,P004,Safety Glasses,Johannesburg,74,639.64,No,No,Medium
+2024-08-01,P003,Steel Boots,Durban,34,127.61,No,No,Low
+2024-08-02,P003,Steel Boots,Johannesburg,55,325.22,No,No,Medium
+2024-08-03,P002,Hard Hats,Cape Town,94,946.24,Yes,No,High
+2024-08-04,P005,Reflective Vests,Cape Town,77,756.3,No,No,Medium
+2024-08-05,P003,Steel Boots,Durban,99,133.18,Yes,Yes,High
+2024-08-06,P001,Safety Gloves,Cape Town,86,1041.51,Yes,No,Medium
+2024-08-07,P004,Safety Glasses,Cape Town,83,1030.89,Yes,No,Medium
+2024-08-08,P004,Safety Glasses,Cape Town,86,616.69,Yes,No,Medium
+2024-08-09,P001,Safety Gloves,Cape Town,28,431.82,No,No,Low
+2024-08-10,P005,Reflective Vests,Cape Town,48,702.16,Yes,No,Low
+2024-08-11,P002,Hard Hats,Johannesburg,98,383.27,Yes,Yes,High
+2024-08-12,P002,Hard Hats,Cape Town,131,331.69,Yes,Yes,High
+2024-08-13,P001,Safety Gloves,Johannesburg,109,983.52,Yes,Yes,High
+2024-08-14,P002,Hard Hats,Durban,62,859.53,Yes,No,Medium
+2024-08-15,P004,Safety Glasses,Johannesburg,75,992.15,Yes,No,Medium
+2024-08-16,P002,Hard Hats,Johannesburg,84,316.33,Yes,No,Medium
+2024-08-17,P001,Safety Gloves,Johannesburg,46,112.75,Yes,No,Low
+2024-08-18,P002,Hard Hats,Cape Town,88,219.41,Yes,No,Medium
+2024-08-19,P002,Hard Hats,Cape Town,81,866.58,No,Yes,Medium
+2024-08-20,P001,Safety Gloves,Durban,62,1167.73,Yes,No,Medium
+2024-08-21,P005,Reflective Vests,Cape Town,101,795.39,Yes,Yes,High
+2024-08-22,P001,Safety Gloves,Durban,35,929.17,No,Yes,Low
+2024-08-23,P004,Safety Glasses,Johannesburg,127,896.13,Yes,Yes,High
+2024-08-24,P002,Hard Hats,Johannesburg,75,816.13,Yes,Yes,Medium
+2024-08-25,P002,Hard Hats,Johannesburg,130,374.31,Yes,Yes,High
+2024-08-26,P004,Safety Glasses,Johannesburg,59,849.16,Yes,Yes,Medium
+2024-08-27,P003,Steel Boots,Durban,80,147.02,No,No,Medium
+2024-08-28,P005,Reflective Vests,Durban,68,852.76,No,No,Medium
+2024-08-29,P001,Safety Gloves,Johannesburg,108,418.58,Yes,Yes,High
+2024-08-30,P002,Hard Hats,Johannesburg,22,413.09,No,No,Low
+2024-08-31,P004,Safety Glasses,Johannesburg,58,462.4,Yes,No,Medium
+2024-09-01,P005,Reflective Vests,Cape Town,109,1117.41,Yes,Yes,High
+2024-09-02,P002,Hard Hats,Johannesburg,57,834.67,No,No,Medium
+2024-09-03,P002,Hard Hats,Durban,56,472.15,Yes,No,Medium
+2024-09-04,P004,Safety Glasses,Durban,41,442.55,Yes,No,Low
+2024-09-05,P001,Safety Gloves,Durban,94,216.63,No,Yes,High
+2024-09-06,P004,Safety Glasses,Cape Town,54,900.39,No,No,Medium
+2024-09-07,P005,Reflective Vests,Durban,83,1000.13,No,Yes,Medium
+2024-09-08,P004,Safety Glasses,Durban,62,1041.32,No,Yes,Medium
+2024-09-09,P004,Safety Glasses,Durban,46,603.32,Yes,No,Low
+2024-09-10,P005,Reflective Vests,Durban,77,1062.56,Yes,No,Medium
+2024-09-11,P004,Safety Glasses,Johannesburg,63,704.21,No,Yes,Medium
+2024-09-12,P004,Safety Glasses,Durban,80,1011.23,Yes,No,Medium
+2024-09-13,P001,Safety Gloves,Johannesburg,46,853.33,No,Yes,Low
+2024-09-14,P004,Safety Glasses,Cape Town,77,1104.6,No,No,Medium
+2024-09-15,P004,Safety Glasses,Durban,22,353.83,No,No,Low
+2024-09-16,P002,Hard Hats,Cape Town,100,848.99,Yes,No,High
+2024-09-17,P004,Safety Glasses,Durban,41,833.93,No,Yes,Low
+2024-09-18,P002,Hard Hats,Cape Town,119,515.61,Yes,No,High
+2024-09-19,P005,Reflective Vests,Johannesburg,78,1083.28,Yes,Yes,Medium
+2024-09-20,P005,Reflective Vests,Durban,69,334.58,No,Yes,Medium
+2024-09-21,P002,Hard Hats,Cape Town,86,898.25,No,Yes,Medium
+2024-09-22,P003,Steel Boots,Cape Town,86,626.35,Yes,No,Medium
+2024-09-23,P001,Safety Gloves,Johannesburg,79,581.72,Yes,No,Medium
+2024-09-24,P005,Reflective Vests,Durban,59,1015.25,No,Yes,Medium
+2024-09-25,P002,Hard Hats,Durban,66,1057,Yes,No,Medium
+2024-09-26,P004,Safety Glasses,Johannesburg,45,1135.94,Yes,No,Low
+2024-09-27,P002,Hard Hats,Johannesburg,71,728.9,Yes,No,Medium
+2024-09-28,P001,Safety Gloves,Durban,61,953.7,Yes,Yes,Medium
+2024-09-29,P001,Safety Gloves,Durban,45,1103,No,No,Low
+2024-09-30,P003,Steel Boots,Johannesburg,61,227.82,No,Yes,Medium
+2024-10-01,P003,Steel Boots,Johannesburg,65,734.92,Yes,No,Medium
+2024-10-02,P005,Reflective Vests,Johannesburg,96,627.61,No,Yes,High
+2024-10-03,P003,Steel Boots,Durban,77,317.86,No,No,Medium
+2024-10-04,P005,Reflective Vests,Cape Town,57,616.03,No,Yes,Medium
+2024-10-05,P005,Reflective Vests,Durban,89,1075.27,No,Yes,Medium
+2024-10-06,P004,Safety Glasses,Durban,89,1062.22,Yes,Yes,Medium
+2024-10-07,P001,Safety Gloves,Durban,43,366.49,Yes,No,Low
+2024-10-08,P003,Steel Boots,Cape Town,78,157.58,Yes,No,Medium
+2024-10-09,P005,Reflective Vests,Johannesburg,45,1048.44,No,No,Low
+2024-10-10,P002,Hard Hats,Durban,70,718.11,Yes,No,Medium
+2024-10-11,P003,Steel Boots,Johannesburg,69,366.67,No,Yes,Medium
+2024-10-12,P002,Hard Hats,Cape Town,76,977.62,Yes,No,Medium
+2024-10-13,P004,Safety Glasses,Durban,79,284.67,Yes,Yes,Medium
+2024-10-14,P001,Safety Gloves,Durban,61,120.49,Yes,Yes,Medium
+2024-10-15,P001,Safety Gloves,Cape Town,101,213.33,No,Yes,High
+2024-10-16,P005,Reflective Vests,Johannesburg,67,133.36,Yes,Yes,Medium
+2024-10-17,P005,Reflective Vests,Johannesburg,129,401.09,Yes,Yes,High
+2024-10-18,P003,Steel Boots,Durban,98,162.86,Yes,No,High
+2024-10-19,P004,Safety Glasses,Johannesburg,49,145.16,Yes,No,Low
+2024-10-20,P005,Reflective Vests,Johannesburg,87,436.52,Yes,Yes,Medium
+2024-10-21,P003,Steel Boots,Cape Town,48,249.51,Yes,No,Low
+2024-10-22,P004,Safety Glasses,Johannesburg,99,1187.97,Yes,Yes,High
+2024-10-23,P004,Safety Glasses,Cape Town,96,267.89,Yes,No,High
+2024-10-24,P003,Steel Boots,Cape Town,60,138.47,Yes,Yes,Medium
+2024-10-25,P001,Safety Gloves,Johannesburg,68,137.29,No,Yes,Medium
+2024-10-26,P005,Reflective Vests,Cape Town,58,517.82,Yes,Yes,Medium
+2024-10-27,P001,Safety Gloves,Johannesburg,96,1032.55,Yes,No,High
+2024-10-28,P001,Safety Gloves,Durban,51,308.63,Yes,Yes,Medium
+2024-10-29,P002,Hard Hats,Johannesburg,46,193.13,No,Yes,Low
+2024-10-30,P002,Hard Hats,Johannesburg,71,838.24,No,No,Medium
+2024-10-31,P005,Reflective Vests,Cape Town,89,888.9,No,Yes,Medium
+2024-11-01,P004,Safety Glasses,Durban,75,322.18,No,Yes,Medium
+2024-11-02,P005,Reflective Vests,Johannesburg,100,148.62,Yes,Yes,High
+2024-11-03,P003,Steel Boots,Cape Town,48,597.67,Yes,No,Low
+2024-11-04,P004,Safety Glasses,Durban,35,891.09,No,Yes,Low
+2024-11-05,P004,Safety Glasses,Durban,101,570.1,Yes,No,High
+2024-11-06,P003,Steel Boots,Durban,83,699.71,Yes,Yes,Medium
+2024-11-07,P004,Safety Glasses,Durban,76,924.07,No,Yes,Medium
+2024-11-08,P001,Safety Gloves,Cape Town,60,1094.49,Yes,No,Medium
+2024-11-09,P001,Safety Gloves,Johannesburg,36,279.54,No,No,Low
+2024-11-10,P002,Hard Hats,Cape Town,71,425.77,Yes,No,Medium
+2024-11-11,P002,Hard Hats,Cape Town,100,991.38,Yes,Yes,High
+2024-11-12,P004,Safety Glasses,Cape Town,80,758.56,No,Yes,Medium
+2024-11-13,P001,Safety Gloves,Durban,106,617.67,Yes,No,High
+2024-11-14,P003,Steel Boots,Cape Town,25,1187.42,No,No,Low
+2024-11-15,P001,Safety Gloves,Johannesburg,117,623.51,Yes,Yes,High
+2024-11-16,P004,Safety Glasses,Durban,68,118.43,No,No,Medium
+2024-11-17,P005,Reflective Vests,Durban,97,293.35,Yes,Yes,High
+2024-11-18,P003,Steel Boots,Cape Town,72,1030.54,Yes,Yes,Medium
+2024-11-19,P004,Safety Glasses,Durban,100,208.42,Yes,Yes,High
+2024-11-20,P002,Hard Hats,Cape Town,132,673.92,Yes,Yes,High
+2024-11-21,P003,Steel Boots,Johannesburg,132,1049.12,Yes,Yes,High
+2024-11-22,P004,Safety Glasses,Cape Town,40,621.07,No,No,Low
+2024-11-23,P002,Hard Hats,Cape Town,32,347.59,No,No,Low
+2024-11-24,P001,Safety Gloves,Durban,71,374.15,Yes,No,Medium
+2024-11-25,P002,Hard Hats,Durban,53,298.41,No,No,Medium
+2024-11-26,P004,Safety Glasses,Cape Town,45,793.85,No,No,Low
+2024-11-27,P002,Hard Hats,Johannesburg,106,869.02,Yes,No,High
+2024-11-28,P004,Safety Glasses,Cape Town,51,1105.78,No,No,Medium
+2024-11-29,P001,Safety Gloves,Cape Town,68,1153.45,No,No,Medium
+2024-11-30,P005,Reflective Vests,Johannesburg,51,305.24,Yes,No,Medium
+2024-12-01,P002,Hard Hats,Durban,84,567.13,Yes,No,Medium
+2024-12-02,P003,Steel Boots,Johannesburg,31,791.9,No,No,Low
+2024-12-03,P001,Safety Gloves,Cape Town,40,497.22,No,No,Low
+2024-12-04,P004,Safety Glasses,Johannesburg,78,1141.14,No,No,Medium
+2024-12-05,P001,Safety Gloves,Cape Town,47,452.65,Yes,Yes,Low
+2024-12-06,P002,Hard Hats,Durban,76,481.98,No,No,Medium
+2024-12-07,P005,Reflective Vests,Durban,104,788.55,Yes,Yes,High
+2024-12-08,P004,Safety Glasses,Cape Town,105,1082.59,Yes,No,High
+2024-12-09,P004,Safety Glasses,Durban,36,964.06,No,No,Low
+2024-12-10,P002,Hard Hats,Johannesburg,79,659.49,Yes,Yes,Medium
+2024-12-11,P003,Steel Boots,Durban,96,183.26,Yes,No,High
+2024-12-12,P003,Steel Boots,Durban,100,1018.32,Yes,Yes,High
+2024-12-13,P003,Steel Boots,Cape Town,54,391.91,Yes,No,Medium
+2024-12-14,P004,Safety Glasses,Johannesburg,84,1185.11,No,Yes,Medium
+2024-12-15,P001,Safety Gloves,Cape Town,106,1032.95,Yes,Yes,High
+2024-12-16,P003,Steel Boots,Durban,41,264.29,No,Yes,Low
+2024-12-17,P001,Safety Gloves,Durban,24,428,No,No,Low
+2024-12-18,P003,Steel Boots,Durban,69,300.41,Yes,Yes,Medium
+2024-12-19,P003,Steel Boots,Johannesburg,57,850.26,Yes,No,Medium
+2024-12-20,P001,Safety Gloves,Durban,75,881.16,Yes,No,Medium
+2024-12-21,P004,Safety Glasses,Durban,39,1139.15,No,Yes,Low
+2024-12-22,P004,Safety Glasses,Johannesburg,87,925.3,Yes,No,Medium
+2024-12-23,P001,Safety Gloves,Cape Town,52,372.05,Yes,Yes,Medium
+2024-12-24,P005,Reflective Vests,Johannesburg,38,537,No,No,Low
+2024-12-25,P002,Hard Hats,Johannesburg,54,591.7,No,Yes,Medium
+2024-12-26,P003,Steel Boots,Johannesburg,49,145.24,No,Yes,Low
+2024-12-27,P001,Safety Gloves,Durban,56,179.72,No,No,Medium
+2024-12-28,P004,Safety Glasses,Cape Town,99,763.97,Yes,Yes,High
+2024-12-29,P005,Reflective Vests,Johannesburg,52,1040.86,No,Yes,Medium
+2024-12-30,P002,Hard Hats,Cape Town,64,694.65,No,No,Medium
